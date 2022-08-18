@@ -1,0 +1,14 @@
+{
+  "name": "progressbar95-markov",
+  "version": "0.0.1",
+  "description": "Markov chain using messages from the Progressbar95 Fan Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello!"
+  },
+  "author": "SevenSixteen",
+  "license": "MIT",
+  "dependencies": {
+    "js-markov": "^3.0.3"
+  }
+}
